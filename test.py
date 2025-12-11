@@ -1,0 +1,2 @@
+ism="siroj"
+print(ism)
